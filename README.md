@@ -1,4 +1,9 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=E8E5DF&height=300&section=header&text=YongJun's%20Github&fontSize=90&fontColor=4A423A)
+<br />
+
+### 👋 안녕하세요, 신용준입니다!
+<br />
+
 
 <!--
 **yongjun-shin/yongjun-shin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
