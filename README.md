@@ -1,10 +1,22 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=E8E5DF&height=300&section=header&text=YongJun's%20Github&fontSize=90&fontColor=4A423A)
+![header](https://capsule-render.vercel.app/api?type=waving&color=E8E5DF&height=300&section=header&text=YongJun's%20Github&fontSize=80&fontColor=4A423A)
 <br />
 
 ### 👋 안녕하세요, 신용준입니다!
 <br />
 
+### 🌱 About Me
+### Frontend Developer
 
+
+😄 I'm currently Learning Javascript, React 😄
+
+🌈 I'm very active and I have a strong sense of responsibility 🌈
+
+- KT Aivle School 3기  &nbsp;&nbsp; - &nbsp;&nbsp; 23. 01. 31 ~ 23. 07. 18
+
+---
+
+<br/><br /><br /><br />
 <!--
 **yongjun-shin/yongjun-shin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +34,7 @@ Here are some ideas to get you started:
 
 ### 📘 Stacks
 
----
+
 
 <div>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" />
@@ -39,16 +51,22 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
     <img src="https://img.shields.io/badge/styled%20components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
 </div>
+
+---
+
 <br/><br /><br /><br />
 
 ### 💪 Baekjoon
----
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=syj3809)](https://solved.ac/syj3809/)
+
+---
 
 <br/><br /><br /><br />
 
 ### :mailbox_with_mail: Contacts
 
----
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:syj1634@naver.com)](mailto:syj1634@naver.com)
+
+---
