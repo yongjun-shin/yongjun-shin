@@ -6,14 +6,6 @@
 
 ### 🌱 About Me
 ### Frontend Developer
-
-
-😄 I'm currently Learning Javascript, React 😄
-
-🌈 I'm very active and I have a strong sense of responsibility 🌈
-
-- KT Aivle School 3기  &nbsp;&nbsp; - &nbsp;&nbsp; 23. 01. 31 ~ 23. 07. 18
-
 ---
 
 <br/><br /><br /><br />
